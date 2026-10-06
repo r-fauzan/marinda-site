@@ -1,0 +1,28 @@
+baseURL = "http://localhost:1313/"
+locale = "fi-FI"
+defaultContentLanguage = "fi"
+title = "Marinda & Ilon Keramiikka"
+
+[module]
+  [[module.imports]]
+    path = "github.com/gohugo-ananke/ananke/v2"
+
+[menus]
+  [[menus.main]]
+    name = "Tarjonta"
+    pageRef = "/tarjonta"
+    weight = 10
+  [[menus.main]]
+    name = "Tuntikuvaukset"
+    pageRef = "/tuntikuvaukset"
+    weight = 20
+  [[menus.main]]
+    name = "Erityisjutut ja hinnasto"
+    pageRef = "/erityisjutut-ja-hinnasto"
+    weight = 30
+
+[params]
+  description = "Keramiikkakursseja, työpajoja ja yhteisiä hetkiä saven äärellä."
+
+  [params.ananke]
+    custom_css = ["css/custom.css"]
