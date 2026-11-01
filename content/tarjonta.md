@@ -5,20 +5,46 @@ summary = "Käsinrakennusta, dreijausta, avointa savipajaa ja yksityisiä työpa
 weight = 10
 +++
 
-## Keramiikan alkeet
+## Aikuisten keramiikkahetki
 
-Tutustu saveen ja käsinrakentamisen perustekniikoihin rennossa ohjauksessa.
-Et tarvitse aiempaa kokemusta – uteliaisuus riittää.
+Aikuisten keramiikkahetki – 2 tapaamista, yht. 5h
 
-## Dreijauskurssi
+Tule viettämään rentoa ja luovaa aikaa saven parissa! 🤍
 
-Kokeile dreijan pyöritystä ja opettele muovaamaan savesta oma pieni astia.
-Pienryhmässä jokainen saa henkilökohtaista ohjausta.
+Aikuisten keramiikkahetki koostuu kahdesta 2,5 tunnin tapaamisesta. Ensimmäisellä kerralla muotoillaan savesta oma pieni tai keskikokoinen keramiikkatyö. Aiheen saat valita itse, ja saat ohjausta työskentelyyn koko pajan ajan.
+
+Toisella tapaamisella pääset leikkimään lasitteilla ja viimeistelemään työsi juuri oman näköiseksesi. Lasitteiden maailmassa riittää kokeiltavaa – erilaisia sävyjä, pintoja ja yhdistelmiä.
+
+⏰ Kesto: 2 × 2,5 tuntia, sisältäen loppusiivouksen
+🏺 Työ: yksi pieni tai keskikokoinen keramiikkatyö
+🎨 Ensimmäinen kerta: saven muotoilu
+✨ Toinen kerta: lasitus ja oman työn viimeistely
+🤍 Ohjaus: mukana molemmilla kerroilla
+💶 Hinta: 55 € / henkilö
+🌿 Aiempaa kokemusta ei tarvita
+
+Kertaistunto – 2,5 h
+
+Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. 
+
+Marindan&Ilon ohjaajat viimeistelevät työn kirkkaalla lasitteella ja tekevät viimeisen polton.
+💶 Hinta: 40 € / henkilö
+
+## Lapsi ja Aikuinen keramiikkahetki – 2h
+
+Mukava yhteinen hetki ♥️
+
+Lapsi & Aikuinen -keramiikkahetkessä molemmat pääsevät tekemään oman keramiikkatyönsä – lapsi oman ja aikuinen omansa. Työn aiheen saa valita itse, ja molemmat saavat henkilökohtaista ohjausta omaan työskentelyynsä.
+
+⏰ Kesto: 2,5 tuntia, sisältäen loppusiivouksen
+🏺 Työt: lapselle ja aikuiselle oma pieni tai keskikokoinen työ
+🎨 Viimeistely: työn sävytys engobeilla pajakerran aikana, kirkas lasite ja viimeinen poltto Marindan&Ilon toimesta
+🤍 Ohjaus: molemmille omaan työskentelyyn
+✨ Aiempaa kokemusta ei tarvita
 
 ## Avoin savipaja
 
-Jatka omaa projektiasi studion välineillä ja ohjaajan tuella. Avoin savipaja
-sopii jo keramiikan perusteisiin tutustuneille.
+”Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit sopia kanssamme myös omasta avoimesta keramiikkahetkestä.”
 
 ## Yksityiset työpajat
 
