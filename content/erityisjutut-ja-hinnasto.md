@@ -9,12 +9,12 @@ weight = 30
 
 Lapsi & Aikuinen -keramiikkahetki
 55 € / lapsi + aikuinen
-Kesto 2 h, sisältäen loppusiivouksen
+
 
 Aikuisten keramiikkahetki
 • 2 tapaamista: 55 € / hlö 
 • 1 tapaaminen: 40 € / hlö
-2,5 h, sisältäen loppusiivouksen
+
 
 Keramiikkasynttärit
 – Kouluikäiset 15–25 € / hlö 
@@ -25,11 +25,11 @@ Keramiikkasynttärit
 Tyhy-keramiikkahetki
 • 1–6 hlö: 40 € / hlö
 • yli 6 hlö: 35 € / hlö (asiakkaan järjestämässä tilassa)
-Kesto 2,5 h
+
 
 Polttari-keramiikkahetki
 • 1–6 hlö: 40 € / hlö
 • yli 6 hlö: 35 € / hlö (asiakkaan järjestämässä tilassa)
-Kesto 2,5 h
+
 
 Yli 6 hengen ryhmille keramiikkahetki voidaan järjestää asiakkaan omissa tiloissa. Tällöin hintaan voidaan lisätä mahdolliset matkakulut.
