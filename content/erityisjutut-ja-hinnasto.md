@@ -7,15 +7,16 @@ weight = 30
 
 ## Hinnasto
 
-Lapsi & Aikuinen -keramiikkahetki
-55 € 
-(sis. lapsen ja aikuisen)
-lisälapsi 20€
-
-
 Aikuisten keramiikkahetki
+
 • 2 tapaamista: 55 € / hlö 
+
 • 1 tapaaminen: 40 € / hlö
+
+
+Lapsi & Aikuinen -keramiikkahetki
+55 € (sis. lapsen ja aikuisen)
+lisälapsi 20€
 
 
 Keramiikkasynttärit
