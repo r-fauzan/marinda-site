@@ -9,9 +9,9 @@ weight = 10
 
 Keramiikkahetket voi valita joko yhden kerran tai kahden kerran kokonaisuutena.
 
-– 2 tapaamista - 2,5 h x2 
+  ♡  2 tapaamista - 2,5 h x2 
 
-- Kertaistunto – 2,5 h.
+  ♡  Kertaistunto – 2,5 h.
 
 
 ## Lapsi ja Aikuinen keramiikkahetki – 2,5 h
