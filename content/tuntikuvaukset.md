@@ -5,20 +5,111 @@ summary = "Tutustu savitöiden, dreijauksen ja lasituksen sisältöön sekä sii
 weight = 20
 +++
 
-## Ensimmäinen savityö – 2 tuntia
+## Aikuisten keramiikkahetki 
 
-Lyhyellä tutustumiskerralla opit käsinrakentamisen perusteet ja valmistat
-esimerkiksi pienen kulhon tai koristeen. Ohjaamme työn alusta loppuun.
+♥️    Aikuisten keramiikkahetki – 2 tapaamista
 
-## Dreijauksen alkeet – 2,5 tuntia
+Aikuisten keramiikkahetki koostuu kahdesta 2,5 tunnin tapaamisesta. Ensimmäisellä kerralla muotoillaan savesta oma pieni tai keskikokoinen keramiikkatyö. Aiheen saat valita itse, ja saat ohjausta työskentelyyn koko pajan ajan.
 
-Pääset kokeilemaan dreijausta ja harjoittelemaan saven keskittämistä.
-Ensimmäisellä kerralla tärkeintä on tuntuma saveen; onnistumiset otetaan
-iloisena bonuksena.
+Kun työ on kuivunut ja poltettu, tavataan uudelleen lasituksen merkeissä. Toisella kerralla pääset leikkimään lasitteilla ja viimeistelemään työsi juuri oman näköiseksesi. Lasitteiden maailmassa riittää kokeiltavaa – erilaisia sävyjä, pintoja ja yhdistelmiä.
 
-## Lasituspaja – 2 tuntia
+Marindan&Ilon ohjaajat tekevät tarvittavat poltot, ja valmis työ on noudettavissa viimeisen polton jälkeen.
 
-Tutustumme lasitteisiin ja väreihin sekä viimeistelemme aiemmin tehdyt työt.
-Lasituspajaan osallistuminen edellyttää, että työsi ovat valmiiksi raakapoltettuja.
+⏰ Kesto: 2 × 2,5 tuntia, sisältäen loppusiivouksen
+🏺 Työ: yksi pieni tai keskikokoinen keramiikkatyö
+🎨 Ensimmäinen kerta: saven muotoilu
+✨ Toinen kerta: lasitus ja oman työn viimeistely
+🤍 Ohjaus: mukana molemmilla kerroilla
+💶 Hinta: 55 € / henkilö
+🌿 Aiempaa kokemusta ei tarvita
 
-Kurssikuvaukset ja kestot ovat tässä vaiheessa suuntaa-antavia mock-tietoja.
+♥️    Aikuisten ketamiikkahetki - 1 tapaaminen
+
+Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt tulevat esiin vasta poltossa.
+
+Marindan&Ilon ohjaajat viimeistelevät työn kirkkaalla lasitteella ja tekevät viimeisen polton.
+💶 Hinta: 40 € / henkilö
+
+## Lapsi ja Aikuinen -keramiikkahetki
+
+Lapsi & Aikuinen -keramiikkahetkessä molemmat pääsevät tekemään oman keramiikkatyönsä – lapsi oman ja aikuinen omansa. Työn aiheen saa valita itse, ja molemmat saavat henkilökohtaista ohjausta omaan työskentelyynsä.
+
+Pajan aikana työ muotoillaan savesta ja sävytetään engobeilla. Engobien lopulliset sävyt tulevat esiin vasta poltossa, joten valmis työ on pieni yllätys siihen asti, kunnes viimeinen poltto on tehty.
+
+Pajan jälkeen työt kuivataan ja poltetaan studiollamme. Marindan&Ilon ohjaajat viimeistelevät työt kirkkaalla lasitteella ja tekevät vielä viimeisen polton. Valmiit työt pääsette noutamaan myöhemmin.
+
+⏰ Kesto: 2,5 tuntia, sisältäen loppusiivouksen
+🏺 Työt: lapselle ja aikuiselle oma pieni tai keskikokoinen työ
+🎨 Viimeistely: työn sävytys engobeilla pajakerran aikana, kirkas lasite ja viimeinen poltto Marindan&Ilon toimesta
+🤍 Ohjaus: molemmille omaan työskentelyyn
+✨ Aiempaa kokemusta ei tarvita
+
+Mukava yhteinen hetki, jossa sekä lapsi että aikuinen pääsevät kokeilemaan keramiikan tekemistä ja keskittymään omaan luovaan työskentelyynsä.
+
+## Tyhy -keramiikkahetki 
+
+Tyhy-keramiikkahetki – luovaa yhdessäoloa työyhteisölle
+
+Kaipaatteko työporukalle jotain tavallisesta poikkeavaa? Tervetuloa viettämään rentoa ja luovaa keramiikkahetkeä! 🤍
+
+Tyhy-keramiikkahetkessä pääsette hetkeksi irti arjesta ja tekemään käsillänne. Jokainen valmistaa oman pienen tai keskikokoisen keramiikkatyön, jonka saa itse suunnitella ja muotoilla.
+
+Työ myös sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt tulevat esiin vasta poltossa. Pajan jälkeen työt kuivataan ja poltetaan studiollamme, minkä jälkeen Marindan&Ilon ohjaajat viimeistelevät työt kirkkaalla lasitteella ja tekevät viimeisen polton.
+
+Valmiit työt ovat pieni muisto yhteisestä tyhy-hetkestä – jotain itse tehtyä, joka kestää aikaa. ✨
+
+⏰ Kesto: 2,5 tuntia
+🏺 Työ: oma pieni tai keskikokoinen keramiikkatyö
+🎨 Viimeistely: engobesävytystä pajakerralla + kirkas lasite ja viimeinen poltto Marindan&Ilon toimesta
+👥 Studiolla: enintään 6 henkilöä
+
+Isommat työyhteisöt: tulemme mielellämme pitämään keramiikkahetken teidän omissa tiloissanne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
+
+Työyhteisön yhteinen hetki, jossa pääsee irti arjesta, tekemään käsillään ja nauttimaan luovasta tekemisestä yhdessä. 🌿
+
+## Keramiikkahetkisynttärit
+
+Keramiikkasynttärit – luovaa tekemistä juhlapäivään 🎂
+
+Kaipaatko synttäreille jotain tavallisesta poikkeavaa? Keramiikkasynttärit yhdistävät juhlan, yhdessäolon ja luovan tekemisen – ja jokainen saa kotiin viemisiksi itse tehdyn keramiikkatyön. 🤍
+
+Keramiikkasynttäreillä jokainen osallistuja valmistaa oman pienen tai keskikokoisen keramiikkatyön. Työn saa suunnitella ja toteuttaa itse, ja Marindan&Ilon ohjaajat auttavat tekemisen eri vaiheissa.
+
+Työ myös sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt tulevat esiin vasta poltossa. Pajan jälkeen työt kuivataan ja poltetaan studiollamme, minkä jälkeen ohjaajat viimeistelevät ne kirkkaalla lasitteella ja tekevät viimeisen polton.
+
+🎈 Sopii: lapsille ja aikuisille
+👥 Ryhmän koko: enintään 6 osallistujaa
+⏰ Kesto: sovitaan erikseen
+🏺 Työ: jokaiselle oma pieni tai keskikokoinen keramiikkatyö
+🎨 Viimeistely: engobesävytystä pajakerralla + kirkas lasite ja viimeinen poltto Marindan&Ilon toimesta
+
+Suositeltu kesto:
+
+- 🧒 Alakouluikäiset: noin 1–1,5 tuntia
+- 🐞 Yläkouluikäiset n. 2h
+- 🎂 Aikuiset: noin 2,5 tuntia
+
+Keramiikkasynttärit voidaan järjestää Marindan&Ilon studiolla tai synttärisankarin luona. Jos tulemme teidän luoksenne, tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
+
+🎉 Juhlapäivä, jossa syntyy jotain ihan omaa – ja samalla mukava muisto yhteisestä hetkestä.
+
+## Polttarit -keramiikkahetki 
+
+Polttari-keramiikkahetki – yhdessä tekemisen juhlahetki 💍
+
+Kaipaatteko polttaripäivään yhteistä tekemistä, jossa pääsee hetkeksi pysähtymään, nauramaan ja tekemään jotain omin käsin?
+
+Polttari-keramiikkahetkessä jokainen pääsee valmistamaan oman pienen tai keskikokoisen keramiikkatyön. Aiheen saa valita itse, ja Marindan&Ilon ohjaajat ovat mukana opastamassa koko työskentelyn ajan.
+
+Työ myös sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt paljastuvat vasta poltossa. Pajan jälkeen työt kuivataan ja poltetaan studiollamme, minkä jälkeen ohjaajat viimeistelevät ne kirkkaalla lasitteella ja tekevät viimeisen polton.
+
+Näin jokaiselle jää polttaripäivästä mukaan itse tehty muisto yhteisestä päivästä. ✨
+
+⏰ Kesto: 2,5 tuntia
+🏺 Työ: oma pieni tai keskikokoinen keramiikkatyö
+🎨 Viimeistely: engobesävytystä pajakerralla + kirkas lasite ja viimeinen poltto Marindan&Ilon toimesta
+👥 Studiolla: enintään 6 henkilöä
+
+Isommat polttariporukat: tulemme mielellämme pitämään keramiikkahetken myös teidän luoksenne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
+
+💍 Yhteistä tekemistä, rentoa tunnelmaa ja jotain konkreettista muistoksi päivästä, joka jää mieleen.
