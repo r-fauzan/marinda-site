@@ -19,8 +19,7 @@ Marindan&Ilon ohjaajat tekevät tarvittavat poltot, ja valmis työ on noudettavi
 🏺 Työ: yksi pieni tai keskikokoinen keramiikkatyö
 🎨 Ensimmäinen kerta: saven muotoilu
 ✨ Toinen kerta: lasitus ja oman työn viimeistely
-🤍 Ohjaus: mukana molemmilla kerroilla
-💶 Hinta: 55 € / henkilö
+🤍 Kaksi ohjaajaa paikalla
 🌿 Aiempaa kokemusta ei tarvita
 
 ♥️    Aikuisten keramiikkahetki - 1 tapaaminen
@@ -28,7 +27,7 @@ Marindan&Ilon ohjaajat tekevät tarvittavat poltot, ja valmis työ on noudettavi
 Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt tulevat esiin vasta poltossa.
 
 Marindan&Ilon ohjaajat viimeistelevät työn kirkkaalla lasitteella ja tekevät viimeisen polton.
-💶 Hinta: 40 € / henkilö
+
 
 ## Lapsi ja Aikuinen -keramiikkahetki
 
