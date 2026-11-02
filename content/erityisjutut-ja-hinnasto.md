@@ -27,6 +27,7 @@ Keramiikkasynttärit
 – Kouluikäiset 15–25 € / hlö 
 
 - Aikuisten keramiikkasynttärit
+  
   • 1–6 hlö: 40 € / hlö
   • yli 6 hlö: 35 € / hlö (asiakkaan järjestämässä tilassa)
 
