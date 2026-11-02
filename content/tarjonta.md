@@ -9,9 +9,9 @@ weight = 10
 
 Keramiikkahetket voi valita joko yhden kerran tai kahden kerran kokonaisuutena.
 
-    ♡    2 tapaamista - 2,5 h x2 
+    ♡    kaksi tapaamista - 2,5 h x2 
 
-    ♡    Kertaistunto – 2,5 h.
+    ♡    yksi tapaaminen – 2,5 h.
 
 
 ## Lapsi ja Aikuinen keramiikkahetki 
@@ -24,7 +24,7 @@ Savesta ja keramiikasta yhteinen harrastus lapsen kanssa. Nämä ovat mukavia yh
 Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit sopia kanssamme myös omasta avoimesta keramiikkahetkestä.
 
 
-## Yksityiset työpajat
+## Yksityiset keramiikkahetket
 
 Yhteinen keramiikkahetki juuri teidän ryhmällenne ♡
 Keramiikkahetkiä TYHY-päiviin, ystäväporukoille, synttäreille ja polttareihin – yhteistä tekemistä juuri teidän ryhmällenne. Sisältö suunnitellaan ryhmän toiveiden mukaan.
