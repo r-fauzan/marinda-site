@@ -8,7 +8,8 @@ weight = 30
 ## Hinnasto
 
 Lapsi & Aikuinen -keramiikkahetki
-55 € / lapsi + aikuinen
+55 € (sis. lapsen ja aikuisen)
+lisälapsi 20€
 
 
 Aikuisten keramiikkahetki
