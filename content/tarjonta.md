@@ -14,7 +14,7 @@ Keramiikkahetket voi valita joko yhden kerran tai kahden kerran kokonaisuutena.
     ♡    Kertaistunto – 2,5 h.
 
 
-## Lapsi ja Aikuinen keramiikkahetki – 2,5 h
+## Lapsi ja Aikuinen keramiikkahetki 
 
 Savesta ja keramiikasta yhteinen harrastus lapsen kanssa. Nämä ovat mukavia yhteisiä hetkiä ♡
 
