@@ -5,7 +5,7 @@ summary = "Yhteystiedot, osoite, puhelinnumero ja sähköpostiosoite."
 weight = 40
 +++
 
-# Yhteystiedot
+## Yhteystiedot
 
 Tervetuloa ottamaan yhteyttä! Löydät tältä sivulta yhteystietomme ja muut tarvittavat tiedot.
 
