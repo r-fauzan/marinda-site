@@ -32,24 +32,30 @@ lisälapsi 20€
 
 Keramiikkasynttärit
 
+
   – Kouluikäiset 15–25 € / hlö 
   
 
   - Aikuisten keramiikkasynttärit
   
       • 1–6 hlö: 40 € / hlö
+    
       • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
 
 
 
 Tyhy-keramiikkahetki
+
     • 1–6 hlö: 40 € / hlö
+    
     • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
 
 
 
 Polttari-keramiikkahetki
+
   • 1–6 hlö: 40 € / hlö
+  
   • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
 
 
