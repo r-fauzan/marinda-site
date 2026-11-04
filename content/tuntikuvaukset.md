@@ -20,6 +20,7 @@ Marindan&Ilon ohjaajat tekevät tarvittavat poltot, ja valmis työ on noudettavi
 🌿 Aiempaa kokemusta ei tarvita
 
 
+
 ♥️    Aikuisten keramiikkahetki - 1 tapaaminen
 
 Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt tulevat esiin vasta poltossa.
