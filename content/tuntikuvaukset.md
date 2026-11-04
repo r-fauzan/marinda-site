@@ -11,7 +11,7 @@ weight = 20
 
 Aikuisten keramiikkahetki koostuu kahdesta 2,5 tunnin tapaamisesta. Ensimmäisellä kerralla muotoillaan savesta oma pieni tai keskikokoinen keramiikkatyö. Aiheen saat valita itse, ja saat ohjausta työskentelyyn koko pajan ajan.
 
-Kun työ on kuivunut ja poltettu, tavataan uudelleen lasituksen merkeissä. Toisella kerralla pääset leikkimään lasitteilla ja viimeistelemään työsi juuri oman näköiseksesi. Lasitteiden maailmassa riittää kokeiltavaa – erilaisia sävyjä, pintoja ja yhdistelmiä.
+Kun työ on kuivunut ja poltettu, tavataan uudelleen lasituksen merkeissä. Toisella kerralla pääset leikkimään lasitteilla ja viimeistelemään työsi juuri oman näköiseksesi. Lasitteiden maailma on täynnä värejä, sävyjä ja yllätyksiä! Meiltä löydät runsaasti erilaisia jauhe- ja sivellinlasitteita, joiden avulla voit antaa keramiikkatyöllesi persoonallisen ilmeen.
 
 Marindan&Ilon ohjaajat tekevät tarvittavat poltot, ja valmis työ on noudettavissa viimeisen polton jälkeen.
 
