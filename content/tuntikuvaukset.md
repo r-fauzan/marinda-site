@@ -56,7 +56,7 @@ Kaipaatko synttäreille jotain tavallisesta poikkeavaa? Keramiikkasynttärit yhd
 Keramiikkasynttäreillä jokainen osallistuja valmistaa oman pienen tai keskikokoisen keramiikkatyön. Työ sävytetään engobeilla saman käynnin aikana. Ohjaajat huolehtivat poltot ja viimeistelevät työt kirkkaalla lasitteella.
 
 🎈 Sopii: lapsille ja aikuisille
-👥 Ryhmän koko: enintään 6 osallistujaa
+👥 Ryhmän koko: studiolla 4-6 osallistujaa, asiakkaan järjestämässä tilassa onnistuu isompikin ryhmä.
 ⏰ Kesto: sovitaan erikseen
 🏺 Työ: jokaiselle oma pieni tai keskikokoinen keramiikkatyö
 
@@ -66,7 +66,7 @@ Suositeltu kesto:
 - 🐞 Yläkouluikäiset n. 2h
 - 🎂 Aikuiset: noin 2,5 tuntia
 
-Keramiikkasynttärit voidaan järjestää Marindan&Ilon studiolla tai synttärisankarin luona. Jos tulemme teidän luoksenne, tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
+
 
 
 ## Polttarit -keramiikkahetki 
@@ -78,7 +78,6 @@ Polttari-keramiikkahetkessä jokainen pääsee valmistamaan oman pienen tai kesk
 Työ myös sävytetään engobeilla saman käynnin aikana. Engobien lopulliset sävyt paljastuvat vasta poltossa. Pajan jälkeen työt kuivataan ja poltetaan studiollamme, minkä jälkeen ohjaajat viimeistelevät ne kirkkaalla lasitteella ja tekevät viimeisen polton.
 
 ⏰ Kesto: 2,5 tuntia
-👥 Studiolla: enintään 6 henkilöä
+👥 Studiolla: 4-6 henkilöä, asiakkaan järjestämässä tilassa onnistuu isompikin ryhmä.
 
-Isommat polttariporukat: tulemme mielellämme pitämään keramiikkahetken myös teidän luoksenne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
 
