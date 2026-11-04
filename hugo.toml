@@ -30,3 +30,4 @@ title = "Marinda & Ilon Keramiikka"
 
   [params.ananke]
     custom_css = ["css/custom.css"]
+    show_recent_posts = false
