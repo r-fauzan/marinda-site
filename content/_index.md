@@ -3,7 +3,7 @@ title = "Tervetuloa saven äärelle"
 description = "Keramiikkaa, kursseja ja kiireetöntä tekemistä Marindan ja Ilon kanssa."
 +++
 
-Marinda Ceramics ja Ilo Keramiikka ovat yhdistäneet voimansa ja luoneet pienen ja lämminhenkisen keramiikkastudion, jossa savesta syntyy kauniita ja persoonallisia esineitä. Pieni ryhmä mahdollistaa henkilökohtaisen ohjauksen lisäksi turvallisen, rauhallisen ja yksilöllisen tekemisen.
+Marinda Ceramics ja Ilo Keramiikka ovat yhdistäneet voimansa ja luoneet pienen ja lämminhenkisen keramiikkastudion, jossa savesta syntyy kauniita ja persoonallisia esineitä. Pieni ryhmä mahdollistaa henkilökohtaisen ohjauksen lisäksi turvallisen, rauhallisen ja yksilöllisen tekemisen. Keramiikkahetkissä olemme aina molemmat ohjaamassa ja tukemassa ryhmää. 
 
 Yhdessä olemme Marinda & Ilo Keramiikka – löydät meidät myös Instagramista tällä nimellä.
 
