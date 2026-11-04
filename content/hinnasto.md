@@ -22,7 +22,7 @@ weight = 30
 | **Polttari-keramiikkahetki** (1–6 hlö) | 40 € / hlö |
 | **Polttari-keramiikkahetki** (yli 6 hlö) | 35 € / hlö (asiakkaan tilassa) |
 
-**Huomio! Yli 6 hengen ryhmille: ** Keramiikkahetki voidaan järjestää myös asiakkaan omissa tiloissa. Tällöin hintaan voidaan lisätä mahdolliset matkakulut.
+**Huomio! Yli 6 hengen ryhmille:** Keramiikkahetki voidaan järjestää myös asiakkaan omissa tiloissa. Tällöin hintaan voidaan lisätä mahdolliset matkakulut.
 
 ## Keramiikan tekemiseen kuuluu yllätyksiä
 
