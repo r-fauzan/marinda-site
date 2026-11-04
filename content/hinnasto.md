@@ -1,5 +1,5 @@
 +++
-title = "Erityisjutut ja Hinnasto"
+title = "Hinnasto"
 description = "Yksityiset keramiikkahetket ja suuntaa-antavat mock-hinnat."
 summary = "Juhlista syntymäpäivää tai kokoa työporukka saven äärelle. Katso esimerkkihinnat."
 weight = 30
