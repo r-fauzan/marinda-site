@@ -16,7 +16,9 @@ Jokainen työ on ainutlaatuinen – usein lopputulos yllättää positiivisella 
 Aikuisten keramiikkahetki
 
   • 2 tapaamista: 55 € / hlö 
+  
   • 1 tapaaminen: 40 € / hlö
+
 
 
 
@@ -26,20 +28,23 @@ Lapsi & Aikuinen -keramiikkahetki
 lisälapsi 20€
 
 
+
+
 Keramiikkasynttärit
 
-– Kouluikäiset 15–25 € / hlö 
-
-- Aikuisten keramiikkasynttärit
+  – Kouluikäiset 15–25 € / hlö 
   
-    • 1–6 hlö: 40 € / hlö
-    • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
+
+  - Aikuisten keramiikkasynttärit
+  
+      • 1–6 hlö: 40 € / hlö
+      • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
 
 
 
 Tyhy-keramiikkahetki
-  • 1–6 hlö: 40 € / hlö
-  • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
+    • 1–6 hlö: 40 € / hlö
+    • yli 6 hlö: 35 € / hlö (asiakkaan tilassa)
 
 
 
