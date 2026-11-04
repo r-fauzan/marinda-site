@@ -17,8 +17,8 @@ title = "Marinda & Ilon Keramiikka"
     pageRef = "/tuntikuvaukset"
     weight = 20
   [[menus.main]]
-    name = "Erityisjutut ja hinnasto"
-    pageRef = "/erityisjutut-ja-hinnasto"
+    name = "Hinnasto"
+    pageRef = "/hinnasto"
     weight = 30
 
 [params]
