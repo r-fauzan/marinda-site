@@ -52,7 +52,6 @@ Valmiit työt ovat pieni muisto yhteisestä tyhy-hetkestä – jotain itse tehty
 
 Isommat työyhteisöt: tulemme mielellämme pitämään keramiikkahetken teidän omissa tiloissanne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
 
-Työyhteisön yhteinen hetki, jossa pääsee irti arjesta, tekemään käsillään ja nauttimaan luovasta tekemisestä yhdessä. 🌿
 
 ## Keramiikkahetkisynttärit
 
