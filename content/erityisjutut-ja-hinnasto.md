@@ -5,11 +5,6 @@ summary = "Juhlista syntymäpäivää tai kokoa työporukka saven äärelle. Kat
 weight = 30
 +++
 
-## Keramiikan tekemiseen kuuluu yllätyksiä
-
-Keramiikan valmistus on käsityötä, johon kuuluu aina pieni ripaus arvaamattomuutta. Vaikka työskentelemme huolellisesti, emme voi taata, että jokainen savityö säilyy ehjänä kuivauksen, polttojen ja muiden työvaiheiden aikana. Jos työsi rikkoutuu meistä johtuvasta syystä, tarjoamme hyvityksenä joko 50 % keramiikkahetken hinnasta takaisin tai mahdollisuuden osallistua seuraavalle kurssillemme puoleen hintaan. Mikäli työn rikkoutuminen johtuu asiakkaan omasta toiminnasta tai rikkoutumisen syy jää tuntemattomaksi, emme valitettavasti voi tarjota rahallista hyvitystä tai korvaavaa kurssikertaa.
-
-Jokainen työ on ainutlaatuinen – usein lopputulos yllättää positiivisella tavalla. 💛
 
 ## Hinnasto
 
@@ -61,3 +56,10 @@ Polttari-keramiikkahetki
 
 
 Yli 6 hengen ryhmille keramiikkahetki voidaan järjestää asiakkaan omissa tiloissa. Tällöin hintaan voidaan lisätä mahdolliset matkakulut.
+
+## Keramiikan tekemiseen kuuluu yllätyksiä
+
+Keramiikan valmistus on käsityötä. Vaikka työskentelemme huolellisesti, emme voi taata, että jokainen savityö säilyy ehjänä kuivauksen, polttojen ja muiden työvaiheiden aikana. Jos työsi rikkoutuu meistä johtuvasta syystä, tarjoamme hyvityksenä joko 50 % keramiikkahetken hinnasta takaisin tai mahdollisuuden osallistua seuraavalle kurssillemme puoleen hintaan. Mikäli työn rikkoutuminen johtuu asiakkaan omasta toiminnasta tai rikkoutumisen syy jää tuntemattomaksi, emme valitettavasti voi tarjota rahallista hyvitystä tai korvaavaa kurssikertaa.
+
+Jokainen työ on ainutlaatuinen – usein lopputulos yllättää positiivisella tavalla. 💛
+
