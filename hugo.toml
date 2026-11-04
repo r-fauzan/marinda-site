@@ -20,7 +20,11 @@ title = "Marinda & Ilon Keramiikka"
     name = "Hinnasto"
     pageRef = "/hinnasto"
     weight = 30
-
+  [[menus.main]]
+    name = "Yhteystiedot"
+    pageRef = "/yhteystiedot"
+    weight = 40
+    
 [params]
   description = "Keramiikkakursseja, työpajoja ja yhteisiä hetkiä saven äärellä."
 
