@@ -14,13 +14,10 @@ weight = 30
 | **Aikuisten keramiikkahetki** – 1 tapaaminen | 40 € / hlö |
 | **Lapsi & Aikuinen -keramiikkahetki** | 55 € (sis. lapsen ja aikuisen) |
 | Lisälapsi | 20 € |
-| **Keramiikkahetkisynttärit** – Kouluikäiset | 15–25 € / hlö / riippuen kestosta |
-| **Keramiikkahetkisynttärit** – Aikuiset (1–8 hlö) | 40 € / hlö |
-| **Keramiikkasynttärit** – Aikuiset (yli 8 hlö) | 35 € / hlö (asiakkaan tilassa) |
-| **Tyhy-keramiikkahetki** (1–8 hlö) | 40 € / hlö |
-| **Tyhy-keramiikkahetki** (yli 8 hlö) | 35 € / hlö (asiakkaan tilassa) |
-| **Polttari-keramiikkahetki** (1–8 hlö) | 40 € / hlö |
-| **Polttari-keramiikkahetki** (yli 8 hlö) | 35 € / hlö (asiakkaan tilassa) |
+| **Keramiikkahetkisynttärit** – Kouluikäiset | alk. 20 € / hlö |
+| **Keramiikkahetkisynttärit** – Aikuiset | alk. 40 € / hlö |
+| **Tyhy-keramiikkahetki**  | alk. 40 € / hlö |
+| **Polttari-keramiikkahetki** | alk. 40 € / hlö |
 
 **Huomio! Yli 8 hengen ryhmille:** Keramiikkahetki voidaan järjestää myös asiakkaan omissa tiloissa. Tällöin hintaan voidaan lisätä mahdolliset matkakulut. Asiakkaan tilassa tulee olla tarvittavat pöytätilat ja tuolit osallistujille.
 
