@@ -25,5 +25,5 @@ Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit
 ## Yksityiset keramiikkahetket
 
 Yhteinen keramiikkahetki juuri teidän ryhmällenne ♡
-Keramiikkahetkiä TYHY-päiviin, ystäväporukoille, synttäreille ja polttareihin – yhteistä tekemistä juuri teidän ryhmällenne. Sisältö suunnitellaan ryhmän toiveiden mukaan.
-Meidän studiollemme mahtuu 6 hengen porukka. Jos ryhmä on isompi, tulemme mielellämme pitämään keramiikkahetken teidän luoksenne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
+Keramiikkahetkiä tyhy-päiviin, ystäväporukoille, pariskunnille, synttäreille ja polttareihin – yhteistä tekemistä juuri teidän ryhmällenne. Sisältö suunnitellaan ryhmän toiveiden mukaan.
+Meidän studiollemme mahtuu 8 hengen porukka. Jos ryhmä on isompi, tulemme mielellämme pitämään keramiikkahetken teidän luoksenne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
