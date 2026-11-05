@@ -25,7 +25,7 @@ Vastaamme yhteydenottoihin mahdollisimman pian. 💛
 ## Aukioloajat
 
 Avoinna sopimuksen mukaan.
-Tällä hetkellä sovimme keramiikkahetkien ajankohdista Whatsapp-yhteisössä. Jos haluaisit liittyä mukaan, laita rohkeasti viestiä! Meillä on tekeillä myös oma verkkokauppa, josta jatkossa pääsee ostamaan paikan keramiikkahetkeen. 
+Tällä hetkellä sovimme keramiikkahetkien ajankohdista WhatsApp-yhteisössä. Jos haluaisit liittyä mukaan, laita rohkeasti viestiä! Meillä on tekeillä myös oma verkkokauppa, josta jatkossa pääsee ostamaan paikan keramiikkahetkeen. 
 
 ## Hyvä tietää 
 
