@@ -7,7 +7,7 @@ weight = 40
 
 ## Yhteystiedot
 
-**Yritys:** Marinda Ceramics, Ilo keramiikka
+**Yritys:** Marinda Ceramics, Ilo Keramiikka
 **Osoite:** Vetikonkatu 5, Tampere
 **Puhelin:** 050 4112 186 ja 044 3389 035
 **Sähköposti:** marinda.keramiikka@gmail.com, ilo.keramiikka@gmail.com
