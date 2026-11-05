@@ -7,33 +7,32 @@ weight = 40
 
 ## Yhteystiedot
 
-Tervetuloa ottamaan yhteyttä! Löydät tältä sivulta yhteystietomme ja muut tarvittavat tiedot.
-
-## Yleiset yhteystiedot
-
-**Yritys:** Esimerkki Oy  
-**Osoite:** Esimerkkikatu 1, 33100 Tampere  
-**Puhelin:** +358 40 123 4567  
-**Sähköposti:** info@example.fi
+**Yritys:** Marinda Ceramics, Ilo keramiikka
+**Osoite:** Vetikonkatu 5, Tampere
+**Puhelin:** 050 4112 186 ja 044 3389 035
+**Sähköposti:** marinda.keramiikka@gmail.com, ilo.keramiikka@gmail.com
 
 ## Aukioloajat
 
-| Päivä | Aukioloajat |
-|---|---|
-| Maanantai–perjantai | 09:00–16:00 |
-| Lauantai | Suljettu |
-| Sunnuntai | Suljettu |
+Tällä hetkellä sovimme keramiikkahetkien ajankohdista Whatsapp-yhteisössä. Jos haluaisit liittyä mukaan, laita rohkeasti viestiä! Meillä on tekeillä myös oma verkkokauppa, josta jatkossa pääsee ostamaan paikan keramiikkahetkeen. Avoinna siis sopimuksen mukaan.
+Autot mahtuvat pihaan ja kadun varteen parkkiin. 
+
+
+Studiomme sijaitsee Marindan kodin kellarikerroksessa. Tila on viileä, meiltä saa lainaan villasukkia. 
+
 
 ## Ota yhteyttä
 
-Voit ottaa meihin yhteyttä sähköpostitse tai puhelimitse. Vastaamme yhteydenottoihin mahdollisimman pian.
+Ota meihin yhteyttä!
 
-**Sähköposti:** [info@example.fi](mailto:info@example.fi)
+Voit tavoittaa meidät Instagramissa, Facebookissa, sähköpostitse tai puhelimitse. Valitse itsellesi sopivin tapa ottaa yhteyttä – voit soittaa, laittaa WhatsApp- tai tekstiviestin, lähettää yksityisviestin tai jättää kommentin someen.
 
-**Puhelin:** [+358 40 123 4567](tel:+358401234567)
+Vastaamme yhteydenottoihin mahdollisimman pian. 💛
+
+
 
 ## Sijainti
 
-Toimipisteemme sijaitsee Tampereella.
+Studiomme sijaitsee Länsi-Tampereella.
 
 [Katso sijainti kartalla](https://www.google.com/maps)
