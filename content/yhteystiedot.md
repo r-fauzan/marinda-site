@@ -30,9 +30,9 @@ Tällä hetkellä sovimme keramiikkahetkien ajankohdista Whatsapp-yhteisössä. 
 ## Hyvä tietää 
 
 Autot mahtuvat pihaan ja kadun varteen parkkiin. 
+Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavallisella pyykinpesulla.
 Studiomme tila on viileä, meiltä saa lainaan villasukkia.
-
-
+Tapaturman sattuessa osallistujat ovat velvollisia nojaamaan omaan vapaa-ajan tapaturmavakuutukseensa.
 
 
 ## Sijainti
