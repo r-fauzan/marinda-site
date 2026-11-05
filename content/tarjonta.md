@@ -12,7 +12,7 @@ Keramiikkahetket voi valita joko yhden kerran tai kahden kerran kokonaisuutena.
 - kaksi tapaamista - 2,5 h x2
 - yksi tapaaminen – 2,5 h.
 
-## Lapsi ja Aikuinen keramiikkahetki 
+## Lapsi ja aikuinen keramiikkahetki 
 
 Savesta ja keramiikasta yhteinen harrastus lapsen kanssa. Nämä ovat mukavia yhteisiä hetkiä ♡
 
