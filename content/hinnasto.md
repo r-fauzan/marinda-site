@@ -14,6 +14,7 @@ weight = 30
 | **Aikuisten keramiikkahetki** – 1 tapaaminen | 40 € / hlö |
 | **Lapsi & aikuinen -keramiikkahetki** | 55 € (sis. lapsen ja aikuisen) |
 | Lisälapsi | 20 € |
+| ** Avoin keramiikkahetki**| 15€/h |
 | **Synttärit-keramiikkahetki** – Kouluikäiset | alk. 20 € / hlö |
 | **Synttärit-keramiikkahetki** – Aikuiset | alk. 40 € / hlö |
 | **Treffit-keramiikkahetki** | alk. 40€/hlö |
