@@ -24,7 +24,7 @@ Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit
 
 ## Keramiikkahetki-treffit
 
-Kahdenkeskistä aikaa. Keramiikkatreffit ovat ihana tapa viettää aikaa yhdessä. ♡
+Olipa kyseessä kahdenkeskinen hetki tai treffit isommalla porukalla, keramiikkatreffit on mukava viettää aikaa yhdessä. ♡ 
 
 
 ## Yksityiset keramiikkahetket
