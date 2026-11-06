@@ -22,11 +22,6 @@ Savesta ja keramiikasta yhteinen harrastus lapsen kanssa. Nämä ovat mukavia yh
 Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit sopia kanssamme myös omasta avoimesta keramiikkahetkestä.
 
 
-## Keramiikkahetki-treffit
-
-Olipa kyseessä kahdenkeskinen hetki tai treffit isommalla porukalla, keramiikkatreffit on mukava viettää aikaa yhdessä. ♡ 
-
-
 ## Yksityiset keramiikkahetket
 
 Yhteinen keramiikkahetki juuri teidän ryhmällenne ♡
