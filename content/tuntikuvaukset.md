@@ -7,7 +7,7 @@ weight = 20
 
 ## Aikuisten keramiikkahetki 
 
-♥️    Aikuisten keramiikkahetki – 2 tapaamista yht. 5h
+     ♡  Aikuisten keramiikkahetki – 2 tapaamista 
 
 Aikuisten keramiikkahetki koostuu kahdesta 2,5 tunnin tapaamisesta. Ensimmäisellä kerralla muotoillaan savesta oma pieni tai keskikokoinen keramiikkatyö. Aiheen saat valita itse, ja saat ohjausta työskentelyyn koko pajan ajan.
 
@@ -17,7 +17,7 @@ Marindan&Ilon ohjaajat huolehtivat poltoista ja valmis työ on noudettavissa noi
 
 
 
-♥️    Aikuisten keramiikkahetki - 1 tapaaminen
+     ♡   Aikuisten keramiikkahetki - 1 tapaaminen
 
 Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. 
 Marindan&Ilon ohjaajat viimeistelevät työn kirkkaalla lasitteella ja huolehtivat poltoista. Valmis työ on noudettavissa noin kuukauden päästä keramiikkahetkestä. 
@@ -32,7 +32,7 @@ Kesto 2,5 tuntia, sisältäen loppusiivouksen.
 Lapsen tulee olla vähintään kuusivuotias.
 
 
-## Keramiikkahetki-treffit
+## Treffit-keramiikkahetki
 
 Keramiikkahetkitreffit ovat ihana tapa viettää aikaa yhdessä ja toteuttaa luovuuttanne. Pääsette muovaamaan savesta omat työnne rauhallisessa ja lämminhenkisessä tunnelmassa. Me olemme apunanne koko keramiikkahetken ajan. Treffeille voi osallistua joko kaksin tai vaikka nelisin. Suunnitellaan yhdessä ovatko treffit yhden vai kahden tapaamisen keramiikkahetkiä. Hinta määräytyy keston ja osallistujamäärän mukaan. 
 
@@ -50,7 +50,7 @@ Studiolla: 4-8 henkilöä
 Isommat työyhteisöt: tulemme mielellämme pitämään keramiikkahetken teidän omissa tiloissanne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
 
 
-## Keramiikkahetkisynttärit
+## Synttärit-keramiikkahetki
 
 Juhlapäivä, jossa syntyy jotain ihan omaa – ja samalla mukava muisto yhteisestä hetkestä. Keramiikkahetkisynttärit yhdistävät juhlan, yhdessäolon ja luovan tekemisen – jokainen saa kotiin viemisiksi itse tehdyn keramiikkatyön. 
 
@@ -62,10 +62,9 @@ Kesto sovitaan erikseen. Hinta määräytyy keston ja osallistujamäärän mukaa
 
 
 Suositeltu kesto:
-
-- 🧒 Alakouluikäiset: noin 1–1,5 tuntia
-- 🐞 Yläkouluikäiset n. 2h
-- 🎂 Aikuiset: noin 2,5 tuntia
+♡ Alle 10-vuotiaat 1–1,5 tuntia
+♡ 10-13-vuotiaat 2 tuntia
+♡ Yli 13-vuotiaat ja aikuiset 2,5 tuntia
 
 
 
