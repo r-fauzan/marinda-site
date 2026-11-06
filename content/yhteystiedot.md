@@ -38,6 +38,8 @@ Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavalli
 Studiomme tila on viileä, meiltä saa lainaan villasukkia.
 Tapaturman sattuessa osallistujat ovat velvollisia nojaamaan omaan vapaa-ajan tapaturmavakuutukseensa.
 
+Me huolehdimme töiden poltoista ja yhden tapaamisen keramiikkahetkissä myös niiden lasittamisesta kirkkaalla lasitteella. Valmiit, viimeistellyt työt pääsette noutamaan noin kuukauden kuluttua.
+
 ## Esteeettömyystiedot
 
 Sisäänkäynti studioon on pääosin tasainen, matkalla on yksi kynnys. Kulkuväylän leveys on noin 70 cm.
