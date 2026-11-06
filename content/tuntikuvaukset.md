@@ -19,14 +19,13 @@ Marindan&Ilon ohjaajat huolehtivat poltoista ja valmis työ on noudettavissa noi
 
      ♡   Aikuisten keramiikkahetki - 1 tapaaminen
 
-Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana. 
-Marindan&Ilon ohjaajat viimeistelevät työn kirkkaalla lasitteella ja huolehtivat poltoista. Valmis työ on noudettavissa noin kuukauden päästä keramiikkahetkestä. 
+Aikuisten keramiikkahetken voi halutessaan toteuttaa myös yhtenä 2,5 tunnin tapaamisena. Tällöin työ muotoillaan ja sävytetään engobeilla saman käynnin aikana.  
 
 
 
 ## Lapsi ja aikuinen -keramiikkahetki
 
-Lapsi & Aikuinen -keramiikkahetkessä molemmat pääsevät tekemään oman keramiikkatyönsä – lapsi oman ja aikuinen omansa. Työn aiheen saa valita itse, ja molemmat saavat henkilökohtaista ohjausta omaan työskentelyynsä. Pajan aikana työ muotoillaan savesta ja sävytetään engobeilla. Ohjaajat huolehtivat poltoista sekä viimeistelevät työt kirkkaalla lasitteella. Valmiit työt pääsette noutamaan noin kuukauden kuluttua.
+Lapsi & Aikuinen -keramiikkahetkessä molemmat pääsevät tekemään oman keramiikkatyönsä – lapsi oman ja aikuinen omansa. Työn aiheen saa valita itse, ja molemmat saavat henkilökohtaista ohjausta omaan työskentelyynsä. Pajan aikana työ muotoillaan savesta ja sävytetään engobeilla. 
 
 Kesto 2,5 tuntia, sisältäen loppusiivouksen. 
 Lapsen tulee olla vähintään kuusivuotias.
@@ -34,7 +33,7 @@ Lapsen tulee olla vähintään kuusivuotias.
 
 ## Treffit-keramiikkahetki
 
-Keramiikkahetkitreffit ovat ihana tapa viettää aikaa yhdessä ja toteuttaa luovuuttanne. Pääsette muovaamaan savesta omat työnne rauhallisessa ja lämminhenkisessä tunnelmassa. Me olemme apunanne koko keramiikkahetken ajan. Treffeille voi osallistua joko kaksin tai vaikka nelisin. Suunnitellaan yhdessä ovatko treffit yhden vai kahden tapaamisen keramiikkahetkiä. Hinta määräytyy keston ja osallistujamäärän mukaan. 
+Keramiikkahetkitreffit ovat ihana tapa viettää aikaa yhdessä ja toteuttaa luovuuttanne. Pääsette muovaamaan savesta omat työnne rauhallisessa ja lämminhenkisessä tunnelmassa. Me olemme apunanne koko keramiikkahetken ajan. Treffeille voi osallistua joko kaksin tai isommallakin porukalla. Suunnitellaan yhdessä ovatko treffit yhden vai kahden tapaamisen keramiikkahetkiä. Hinta määräytyy keston ja osallistujamäärän mukaan. 
 
 
 ## Tyhy-keramiikkahetki 
@@ -44,17 +43,17 @@ Tyhy-keramiikkahetkessä pääsette hetkeksi irti arjesta ja tekemään käsill�
 
 Valmiit työt ovat pieni muisto yhteisestä tyhy-hetkestä – jotain itse tehtyä, joka kestää aikaa. 
 
-Kesto: 2,5 tuntia. Hinta määräytyy ryhmän koon mukaan.
-Studiolla: 4-8 henkilöä
+Kesto 2,5 tuntia. Hinta määräytyy ryhmän koon mukaan.
+Studiolla 4-8 henkilöä.
 
 Isommat työyhteisöt: tulemme mielellämme pitämään keramiikkahetken teidän omissa tiloissanne. Tilassa tulee olla jokaiselle osallistujalle sopiva pöytätila työskentelyä varten.
 
 
 ## Synttärit-keramiikkahetki
 
-Juhlapäivä, jossa syntyy jotain ihan omaa – ja samalla mukava muisto yhteisestä hetkestä. Keramiikkahetkisynttärit yhdistävät juhlan, yhdessäolon ja luovan tekemisen – jokainen saa kotiin viemisiksi itse tehdyn keramiikkatyön. 
+Juhlapäivä, jossa syntyy jotain ihan omaa – mukava muisto yhteisestä hetkestä. Keramiikkahetkisynttärit yhdistävät juhlan, yhdessäolon ja luovan tekemisen – jokainen saa kotiin viemisiksi itse tehdyn keramiikkatyön. 
 
-Keramiikkasynttäreillä jokainen osallistuja valmistaa oman pienen tai keskikokoisen keramiikkatyön. Työ sävytetään engobeilla saman käynnin aikana. Ohjaajat huolehtivat poltoista ja viimeistelevät työt kirkkaalla lasitteella.
+Keramiikkasynttäreillä jokainen osallistuja valmistaa oman pienen tai keskikokoisen keramiikkatyön. Työ sävytetään engobeilla saman käynnin aikana.
 
 Sopii niin lapsille kuin aikuisille. 
 Ryhmän koko: studiolla 4-8 osallistujaa, asiakkaan järjestämässä tilassa onnistuu isompikin ryhmä.
@@ -74,9 +73,9 @@ Polttari-keramiikkahetki – yhdessä tekemisen juhlahetki, rentoa tunnelmaa ja 
 
 Kaipaatteko polttaripäivään yhteistä tekemistä, jossa pääsee hetkeksi pysähtymään, nauramaan ja tekemään jotain omin käsin?
 Polttari-keramiikkahetkessä jokainen pääsee valmistamaan oman pienen tai keskikokoisen keramiikkatyön. Aiheen saa valita itse, ja Marindan&Ilon ohjaajat ovat mukana opastamassa koko työskentelyn ajan.
-Työ myös sävytetään engobeilla saman käynnin aikana. Ohjaajat huolehtivat poltoista ja viimeistelevät ne kirkkaalla lasitteella.
+Työ myös sävytetään engobeilla saman käynnin aikana.
 
-Kesto: 2.5h. 
-Studiolla: 4-8 hengen ryhmä henkilöä, asiakkaan järjestämässä tilassa onnistuu isompikin ryhmä.
+Kesto 2.5 tuntia.
+Studiolla 4-8 hengen ryhmä henkilöä, asiakkaan järjestämässä tilassa onnistuu isompikin ryhmä.
 
 
