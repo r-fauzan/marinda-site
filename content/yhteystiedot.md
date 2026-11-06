@@ -33,9 +33,10 @@ Maksu onnistuu ensimmäisen tapaamisen jälkeen. Suosimme MobilePayta, mutta my�
 
 ## Hyvä tietää 
 
-Autot mahtuvat pihaan ja kadun varteen parkkiin. 
-Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavallisella pyykinpesulla.
-Studiomme tila on viileä, meiltä saa lainaan villasukkia.
+Studion sisäänkäynti on alaovesta, joka sijaitsee autotallin vasemmalla puolella. Autot mahtuvat pihaan ja kadun varteen parkkiin. 
+
+Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavallisella pyykinpesulla. Studiomme tila on viileä, meiltä saa lainaan villasukkia.
+
 Tapaturman sattuessa osallistujat ovat velvollisia nojaamaan omaan vapaa-ajan tapaturmavakuutukseensa.
 
 Me huolehdimme töiden poltoista ja yhden tapaamisen keramiikkahetkissä myös niiden lasittamisesta kirkkaalla lasitteella. Valmiit, viimeistellyt työt pääsette noutamaan noin kuukauden kuluttua.
