@@ -33,11 +33,9 @@ Maksu onnistuu ensimmäisen tapaamisen jälkeen. Suosimme MobilePayta, mutta my�
 
 ## Hyvä tietää 
 
-Studion sisäänkäynti on alaovesta, joka sijaitsee autotallin vasemmalla puolella. Autot mahtuvat pihaan ja kadun varteen parkkiin. 
-
 Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavallisella pyykinpesulla. Studiomme tila on viileä, meiltä saa lainaan villasukkia.
 
-Tapaturman sattuessa osallistujat ovat velvollisia nojaamaan omaan vapaa-ajan tapaturmavakuutukseensa.
+Tapaturman sattuessa osallistujat ovat oman vapaa-ajan tapaturmavakuutuksensa varassa.
 
 Me huolehdimme töiden poltoista ja yhden tapaamisen keramiikkahetkissä myös niiden lasittamisesta kirkkaalla lasitteella. Valmiit, viimeistellyt työt pääsette noutamaan noin kuukauden kuluttua.
 
@@ -48,6 +46,6 @@ Sisäänkäynti studioon on pääosin tasainen, matkalla on yksi kynnys. Kulkuv�
 
 ## Sijainti
 
-Studiomme sijaitsee Länsi-Tampereella.
+Studiomme sijaitsee Länsi-Tampereella. Studion sisäänkäynti on alaovesta, joka sijaitsee autotallin vasemmalla puolella. Autot mahtuvat pihaan ja kadun varteen parkkiin. 
 
 [Katso sijainti kartalla](https://www.google.com/maps)
