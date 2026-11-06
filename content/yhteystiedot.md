@@ -27,12 +27,20 @@ Vastaamme yhteydenottoihin mahdollisimman pian. 💛
 Avoinna sopimuksen mukaan.
 Tällä hetkellä sovimme keramiikkahetkien ajankohdista WhatsApp-yhteisössä. Jos haluaisit liittyä mukaan, laita rohkeasti viestiä! Meillä on tekeillä myös oma verkkokauppa, josta jatkossa pääsee ostamaan paikan keramiikkahetkeen. 
 
+## Maksutavat
+
+Maksu onnistuu ensimmäisen tapaamisen jälkeen. Suosimme MobilePayta, mutta myös kortti ja käteinen käyvät.
+
 ## Hyvä tietää 
 
 Autot mahtuvat pihaan ja kadun varteen parkkiin. 
 Tule mukavissa, rennoissa vaatteissa. Savi- tai lasitepöly lähtee pois tavallisella pyykinpesulla.
 Studiomme tila on viileä, meiltä saa lainaan villasukkia.
 Tapaturman sattuessa osallistujat ovat velvollisia nojaamaan omaan vapaa-ajan tapaturmavakuutukseensa.
+
+## Esteeettömyystiedot
+
+Sisäänkäynti studioon on pääosin tasainen, matkalla on yksi kynnys. Kulkuväylän leveys on noin 70 cm.
 
 
 ## Sijainti
