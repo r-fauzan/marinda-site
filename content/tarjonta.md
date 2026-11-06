@@ -17,9 +17,14 @@ Keramiikkahetket voi valita joko yhden kerran tai kahden kerran kokonaisuutena.
 Savesta ja keramiikasta yhteinen harrastus lapsen kanssa. Nämä ovat mukavia yhteisiä hetkiä ♡
 
 
-## Avoin savipaja
+## Avoin keramiikkahetki
 
 Kun olemme tulleet toisillemme tutuiksi ja keramiikan alkeet ovat hallussa, voit sopia kanssamme myös omasta avoimesta keramiikkahetkestä.
+
+
+## Keramiikkahetki-treffit
+
+Kahdenkeskistä aikaa. Keramiikkatreffit ovat ihana tapa viettää aikaa yhdessä. ♡
 
 
 ## Yksityiset keramiikkahetket
